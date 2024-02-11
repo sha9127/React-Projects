@@ -1,0 +1,24 @@
+.btn_design{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    height: 44px;
+    width: 220px;
+    border-radius: 5px;
+    gap: 5px;
+    
+}
+.btn_outline{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    background: transparent;
+    height: 44px;
+    width: 100%;
+    border-radius: 5px;
+    gap: 5px;
+
+}
